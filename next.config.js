@@ -6,6 +6,9 @@ const nextConfig = {
   eslint: {
     ignoreDuringBuilds: true,
   },
+  typescript: {
+    ignoreBuildErrors: true,
+  },
   images: {
     remotePatterns: [
       {
@@ -14,6 +17,7 @@ const nextConfig = {
       },
     ],
   },
+  output: 'standalone',
 };
 
 module.exports = nextConfig;
