@@ -1,0 +1,17 @@
+
+> project-1763731507695-1lckr2t7e@0.1.0 dev
+> node scripts/run-dev.js
+
+🚀 Starting Next.js dev server on http://localhost:3000
+(node:25620) [DEP0190] DeprecationWarning: Passing args to a child process with shell option true can lead to security vulnerabilities, as the arguments are not escaped, only concatenated.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+   ▲ Next.js 15.1.0
+   - Local:        http://localhost:3107
+   - Network:      http://172.24.176.1:3107
+   - Environments: .env
+   - Experiments (use with caution):
+     · typedRoutes
+
+ ✓ Starting...
+ ✓ Ready in 761ms
+ ○ Compiling / ...
