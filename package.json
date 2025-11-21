@@ -1,0 +1,28 @@
+{
+  "name": "project-1763731507695-1lckr2t7e",
+  "private": true,
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "node scripts/run-dev.js",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@tailwindcss/postcss": "^4.1.17",
+    "autoprefixer": "^10.4.22",
+    "lucide-react": "^0.554.0",
+    "next": "15.1.0",
+    "postcss": "^8.5.6",
+    "react": "19.0.0",
+    "react-dom": "19.0.0",
+    "tailwindcss": "^4.1.17"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.0",
+    "@types/react": "^19.0.0",
+    "eslint": "^9.17.0",
+    "eslint-config-next": "15.1.0",
+    "typescript": "^5.7.2"
+  }
+}

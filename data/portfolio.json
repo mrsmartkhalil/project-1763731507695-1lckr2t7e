@@ -1,0 +1,59 @@
+{
+  "projects": [
+    {
+      "id": "1",
+      "title": "AI-Powered Chatbot",
+      "description": "An intelligent chatbot using GPT-4 and natural language processing to provide human-like conversations and customer support.",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=600&fit=crop",
+      "technologies": ["Python", "OpenAI GPT-4", "LangChain", "FastAPI", "React"],
+      "demoUrl": "https://demo.example.com",
+      "githubUrl": "https://github.com/example",
+      "featured": true,
+      "createdAt": "2024-01-15"
+    },
+    {
+      "id": "2",
+      "title": "Computer Vision System",
+      "description": "Real-time object detection and classification system using YOLOv8 for autonomous vehicles and security applications.",
+      "image": "https://images.unsplash.com/photo-1555255707-c07966088b7b?w=800&h=600&fit=crop",
+      "technologies": ["Python", "PyTorch", "YOLOv8", "OpenCV", "TensorFlow"],
+      "githubUrl": "https://github.com/example",
+      "featured": true,
+      "createdAt": "2024-02-20"
+    },
+    {
+      "id": "3",
+      "title": "Sentiment Analysis API",
+      "description": "Machine learning API for analyzing customer feedback and social media sentiment using transformer models.",
+      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&h=600&fit=crop",
+      "technologies": ["Python", "BERT", "Hugging Face", "Docker", "Kubernetes"],
+      "demoUrl": "https://demo.example.com",
+      "featured": false,
+      "createdAt": "2024-03-10"
+    }
+  ],
+  "blogPosts": [
+    {
+      "id": "1",
+      "title": "The Future of AI in 2024",
+      "excerpt": "Exploring the latest trends and breakthroughs in artificial intelligence and machine learning.",
+      "content": "Artificial Intelligence continues to evolve at an unprecedented pace. In this article, we explore the key trends shaping the future of AI...",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=600&fit=crop",
+      "tags": ["AI", "Machine Learning", "Technology"],
+      "published": true,
+      "createdAt": "2024-01-05",
+      "updatedAt": "2024-01-05"
+    },
+    {
+      "id": "2",
+      "title": "Getting Started with LangChain",
+      "excerpt": "A comprehensive guide to building AI applications with LangChain and large language models.",
+      "content": "LangChain is revolutionizing how we build AI applications. This guide will walk you through the fundamentals...",
+      "image": "https://images.unsplash.com/photo-1676911809746-7c99b7e15cf0?w=800&h=600&fit=crop",
+      "tags": ["LangChain", "Tutorial", "AI Development"],
+      "published": true,
+      "createdAt": "2024-02-15",
+      "updatedAt": "2024-02-15"
+    }
+  ]
+}
